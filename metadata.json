@@ -1,0 +1,6 @@
+{
+  "name": "Android YouTube Lite Studio (Lollipop 5.0+)",
+  "description": "Bộ công cụ mã nguồn Android hoàn chỉnh & Trình giả lập YouTube Lite tối ưu cho Android 5.0 Lollipop (API 21+) với chặn quảng cáo và tăng tốc phần cứng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
